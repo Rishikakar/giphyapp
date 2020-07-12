@@ -1,0 +1,21 @@
+nav {
+    background-color: rgb(48, 12, 209);
+    text-align: center;
+    padding: 10px;
+    color: rgb(245, 222, 12);
+    font-size: large;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    padding: 0%;
+    font-family: fantasy;
+    color: aliceblue;
+    background: rgb(206, 14, 14);
+}
+
+form {
+    width: 10px;
+    margin: 0 auto;
+}
